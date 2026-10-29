@@ -53,41 +53,13 @@ I believe in learning by doing, staying curious, and improving one step at a tim
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Aryanrawat-007&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanrawat-007&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Aryanrawat-007&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Aryanrawat-007">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="[https://www.linkedin.com/in/1b5a68414](https://www.linkedin.com/in/aryan-rawat-1b5a68414/)">
+  <a href="https://www.linkedin.com/in/1b5a68414">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:aryanawat2007@gmail.com">
