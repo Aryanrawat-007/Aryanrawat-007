@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aryan Rawat
 
-### 💻 B.Tech CSE Student | Aspiring Software Developer | Tech Enthusiast
+### 💻 B.Tech CSE Student 
 
 I'm a Computer Science and Engineering student passionate about programming, problem-solving, and exploring new technologies. I enjoy learning how things work, building my coding skills, and turning ideas into practical solutions.
 
