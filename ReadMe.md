@@ -1,6 +1,10 @@
 <!-- 🌌 COSMIC SPACE BANNER -->
 <p align="center">
-  <img src=""C:\Users\aryan\OneDrive\Desktop\Neon Cosmic Aurora Triptych.png"" width="100%" alt="Cosmic Space Banner"/>
+  <img
+    src="./space-banner.png"
+    width="100%"
+    alt="Cosmic Space Banner"
+  />
 </p>
 
 <h1 align="center">👋 Hi, I'm Aryan Rawat</h1>
