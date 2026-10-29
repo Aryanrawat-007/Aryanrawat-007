@@ -1,18 +1,64 @@
-# 💫 About Me:
-# 👋 Hi, I'm Aryan Rawat<br><br>### 💻 B.Tech CSE Student | Aspiring Software Developer | Tech Enthusiast<br><br>I'm a Computer Science and Engineering student passionate about programming, problem-solving, and exploring new technologies. I enjoy learning how things work, building my coding skills, and turning ideas into practical solutions.<br><br>I believe in **learning by doing, staying curious, and improving every day.** 🚀<br><br>---<br><br>## 📌 About Me<br><br>- 🎓 Pursuing B.Tech in Computer Science and Engineering at Graphic Era Hill University.<br>- 💻 Learning programming with C and C++.<br>- 🌱 Exploring Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP).<br>- 🧠 Working on improving my logical thinking and problem-solving skills.<br>- 🤝 Open to connecting and collaborating with fellow students and developers.<br>- 🎯 Goal: To become a skilled software developer and build useful, real-world applications.<br><br>---<br><br>## 🛠️ Technologies & Tools<br><br><p><br>  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /><br>  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /><br>  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br>  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br>  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /><br></p><br><br>---<br><br>## 🌱 Currently Learning<br><br>- 📚 Data Structures and Algorithms<br>- 🧩 Problem-Solving and Logical Thinking<br>- 🏗️ Object-Oriented Programming<br>- 💡 Software Development Fundamentals<br><br>---<br><br>## 🚀 What I'm Looking For<br><br>- 👯 Collaborating on beginner-friendly projects.<br>- 🤝 Connecting with people who enjoy technology and programming.<br>- 💬 Learning from other developers and sharing knowledge.<br>- 🔍 Exploring new tools, technologies, and development opportunities.<br><br>---<br><br>## ⚡ A Little About My Mindset<br><br>> "Every expert was once a beginner. Keep learning, keep building, and keep growing."<br><br>I believe that consistency matters more than perfection. Every coding challenge, mistake, and new concept is another opportunity to improve.<br><br>---<br><br>### 🤝 Let's Connect!<br><br>📫 Feel free to explore my repositories and follow my journey as I learn, build, and grow as a developer.<br><br>⭐ Thanks for visiting my profile!
+# 👋 Hi, I'm Aryan Rawat
 
+### 💻 B.Tech CSE Student | Aspiring Software Developer | Tech Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_rawat_op) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-rawat-1b5a68414/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanawat2007@gmail.com) 
+I'm a Computer Science and Engineering student passionate about programming, problem-solving, and exploring new technologies. I enjoy learning how things work, building my coding skills, and turning ideas into practical solutions.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aryanrawat-007&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Aryanrawat-007&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryanrawat-007&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I believe in **learning by doing, staying curious, and improving every day.** 🚀
 
 ---
-[![](https://komarev.com/ghpvc/?username=Aryanrawat-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📌 About Me
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering at Graphic Era Hill University.
+- 💻 Learning programming with C and C++.
+- 🌱 Exploring Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP).
+- 🧠 Working on improving my logical thinking and problem-solving skills.
+- 🤝 Open to connecting and collaborating with fellow students and developers.
+- 🎯 Goal: To become a skilled software developer and build useful, real-world applications.
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 📚 Data Structures and Algorithms
+- 🧩 Problem-Solving and Logical Thinking
+- 🏗️ Object-Oriented Programming
+- 💡 Software Development Fundamentals
+
+---
+
+## 🚀 What I'm Looking For
+
+- 👯 Collaborating on beginner-friendly projects.
+- 🤝 Connecting with people who enjoy technology and programming.
+- 💬 Learning from other developers and sharing knowledge.
+- 🔍 Exploring new tools, technologies, and development opportunities.
+
+---
+
+## ⚡ A Little About My Mindset
+
+> "Every expert was once a beginner. Keep learning, keep building, and keep growing."
+
+I believe that consistency matters more than perfection. Every coding challenge, mistake, and new concept is another opportunity to improve.
+
+---
+
+### 🤝 Let's Connect!
+
+📫 Feel free to explore my repositories and follow my journey as I learn, build, and grow as a developer.
+
+⭐ Thanks for visiting my profile!
