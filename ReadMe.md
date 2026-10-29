@@ -1,50 +1,47 @@
-<!-- PROFILE BANNER -->
+<!-- 🌌 COSMIC SPACE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile Banner"/>
+  <img src="./space-banner.png" width="100%" alt="Cosmic Space Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Aryan Rawat</h1>
+<h1 align="center">👋 Hi, I'm Aryan Rawat</h1>
 
 <h3 align="center">
-  B.Tech CSE Student • Aspiring Software Developer • Tech Enthusiast
+  💻 B.Tech CSE Student  • Tech Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+  <a href="https://github.com/Aryanrawat-007">GitHub</a>
   •
-  <a href="https://www.linkedin.com/in/1b5a68414">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aryan-rawat-1b5a68414/">LinkedIn</a>
   •
-  <a href="mailto:YOUR_EMAIL_ADDRESS">Email</a>
+  <a href="https://www.instagram.com/aryan_rawat_op/">Instagram</a>
+  •
+  <a href="mailto:aryanawat2007@gmail.com">Email</a>
 </p>
 
 ---
 
-<p>
-  I'm a <b>B.Tech Computer Science and Engineering student</b> at Graphic Era Hill University, passionate about programming, technology, and solving problems through code.
-</p>
+## 📌 About Me
 
-<p>
-  Currently focused on strengthening my <b>C, C++, Data Structures and Algorithms (DSA), and Object-Oriented Programming (OOP)</b> skills. I enjoy exploring new concepts, solving coding problems, and turning what I learn into practical applications.
-</p>
+Hi 👋! I'm a B.Tech Computer Science and Engineering student at Graphic Era Hill University, passionate about programming, technology, and solving problems through code.
 
-<p>
-  I believe in learning by doing, staying curious, and becoming a better developer one step at a time. 🚀
-</p>
+I'm currently strengthening my skills in **C, C++, Data Structures and Algorithms (DSA), and Object-Oriented Programming (OOP)**. I enjoy exploring new concepts, solving coding problems, and turning what I learn into practical applications.
+
+I believe in learning by doing, staying curious, and improving one step at a time. 🚀
 
 ---
 
-<h2 align="center">📌 About Me</h2>
+## 🚀 What I'm Doing Now
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering.
-- 💻 Practicing C and C++ programming.
-- 🌱 Learning Data Structures, Algorithms, and OOP.
-- 🧠 Improving my logical thinking and problem-solving abilities.
-- 🤝 Open to collaborating with fellow students and developers.
-- 🎯 Goal: Become a skilled software developer and build useful applications.
+- 🔭 Exploring programming concepts and building practical projects.
+- 🌱 Learning Data Structures and Algorithms, C++, and OOP.
+- 🧠 Improving my logical thinking and problem-solving skills.
+- 👯 Open to collaborating with fellow students and beginner-friendly developers.
+- 🎯 Working toward becoming a skilled software developer.
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -56,33 +53,44 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Aryan's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aryanrawat-007&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanrawat-007&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
 
-<h2 align="center">🔥 Contribution Streak</h2>
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Aryanrawat-007&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Aryanrawat-007">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/1b5a68414">
+  <a href="[https://www.linkedin.com/in/1b5a68414](https://www.linkedin.com/in/aryan-rawat-1b5a68414/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:aryanawat2007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -92,5 +100,5 @@
 <h3 align="center">⚡ Keep Learning. Keep Building. Keep Growing.</h3>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Have a great day.
+  ⭐ Thanks for visiting my profile!
 </p>
